@@ -1,7 +1,22 @@
 [
   {
     "word": "a",
-    "transcription": "",
+    "transcription": "ǝ",
     "tranlate": "неопределенный артикль"
+  },
+  {
+    "word": "four",
+    "transcription": "fɔ:",
+    "tranlate": "четыре"
+  },
+  {
+    "word": "understand",
+    "transcription": "ˎʌndǝ`stænd",
+    "tranlate": "понимать"
+  },
+  {
+    "word": "place",
+    "transcription": "pleis",
+    "tranlate": "место"
   }
 ]
