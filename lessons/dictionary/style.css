@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+div {
+  margin: 0 auto;
+  display: flex;
+}
+
+span {
+  flex-grow: 1;
+}
+
+.word {
+}
+
+.transcription {
+}
