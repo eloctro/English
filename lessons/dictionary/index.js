@@ -1,4 +1,4 @@
-const dictionary = "./dictionary.json";
+const dictionary = "./dict-noun.json";
 
 async function getDictEnRu() {
   const res = await fetch(dictionary);
