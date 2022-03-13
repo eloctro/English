@@ -1,12 +1,53 @@
 [
+{
+    "word": "country",
+    "transcription": "`kʌntri",
+    "translate": "страна"
+  },
+
   {
     "word": "four",
     "transcription": "fɔ:",
     "translate": "четыре"
   },
   {
+    "word": "i",
+    "transcription": "ai",
+    "translate": "я"
+  },
+  {
+    "word": "in",
+    "transcription": "in",
+    "translate": "в"
+  },
+  {
     "word": "place",
     "transcription": "pleis",
     "translate": "место"
+  },
+  {
+    "word": "they",
+    "transcription": "ðei",
+    "translate": "они"
+  },
+  {
+    "word": "this",
+    "transcription": "ði:s",
+    "translate": "эта, этот, это"
+  },
+  {
+    "word": "you",
+    "transcription": "ju:",
+    "translate": "ты, вы, тебе"
+  },
+  {
+    "word": "",
+    "transcription": "",
+    "translate": ""
+  },
+  {
+    "word": "",
+    "transcription": "",
+    "translate": ""
   }
 ]
